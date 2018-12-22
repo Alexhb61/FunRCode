@@ -1,0 +1,308 @@
+#library(ggplot2)
+
+# Use stdout as per normal...
+#print("Hello, world!")
+
+# Use plots...
+#plot(cars)
+
+# Even ggplot!
+#qplot(wt, mpg, data = mtcars, colour = factor(cyl))
+
+rawInput <- "ivyhczwokexltwhsfamqprbnuy
+ivjhcjdokexltwwsfamqpabnuy
+ivjhczdokebltwgsfydqprbnuy
+ivjhcadokexftogsfamqprbnuy
+idjhczdokexltwgsfacqprbnuh
+ivjhgzookexltwgsfamqjrbnuy
+uvjhctdokexltwosfamqprbnuy
+ivrhczdokexltwhzfamqprbnuy
+ivjhczuxkexltwgsfamqprbney
+ivjhczdokemltwgsfadnprbnuy
+ifjhczdokexltwgsfamqprbkuf
+ivjhkzdokltltwgsfamqprbnuy
+ivjuczdhkexltwgsfamqprtnuy
+ivjhjzdxkexltwgsfapqprbnuy
+ivlhczdoxexltwgsfamqprgnuy
+ivjhczdoknxltwgssamqsrbnuy
+ivjhczdokexltwgswadqprbruy
+ivjhczdokexthwgsfampprbnuy
+uvjhczrozexltwgsfamqprbnuy
+ivolczdokexltwgsffmqprbnuy
+ivjhczibkexltwgsfamoprbnuy
+ivjhczdokefltmgsfamqprbouy
+ivjhczdobexltngsfamsprbnuy
+ivjhczdokexltwvsfxqqprbnuy
+dvjhczdokexucwgsfamqprbnuy
+kvjhszkokexltwgsfamqprbnuy
+ivjhczdokexrtegsfamqprbnus
+ivjhctdokexltwglgamqprbnuy
+ivjhczdozexutwgsfamqdrbnuy
+ivjhczqokemltwgsfakqprbnuy
+uvjhczdokexlqwgsfadqprbnuy
+ivjhczdohexltwglffmqprbnuy
+izjhczdokexltwgsfamqprbsqy
+iajhczdokwxltwgjfamqprbnuy
+ivjfczdokexllwgslamqprbnuy
+ivjhczdoyexltwgsfamqdrbnxy
+ivjhczdokekwtwssfamqprbnuy
+ivjhcodokexltwgsfamqirxnuy
+ihjhhzdokexltwgsfamqlrbnuy
+ivjdpzdokexltwfsfamqprbnuy
+ivjhcpdokexltwgsfamqqrbruy
+qvjhcziokexltwgsfamqprbnny
+ivohczdomexltwgsfkmqprbnuy
+ivjhczhokhxlywgsfamqprbnuy
+ivjhczdokexltwgmffmqprbruy
+ivjhczdokqxltwgcfamqprbnyy
+ivjhczdokepltwgsfamcprbnay
+ivjhczdokexltwgseamqpmbnua
+ivjzczdokexltwgszamqplbnuy
+ivjhczpokexltwgvfgmqprbnuy
+idjhczdokexltwgsxamqprbndy
+ivjhczdxkexltwgcgamqprbnuy
+ivjhczdckexatpgsfamqprbnuy
+ivjrczdorexltwgsfamqprbnvy
+ivjoczdokexltwgswamqprbtuy
+iylhczdokexltwgsfamqpxbnuy
+imxhczdokkxltwgsfamqprbnuy
+ivvhczdoktxltwgsfamaprbnuy
+ivyhczdokexltwhsfayqprbnuy
+ivjhcrdokexltegsfamqprbnum
+rvjhezdokexltwgsoamqprbnuy
+ivjzczdokexlbwgsfkmqprbnuy
+ivjhczdokelltwgsyamqprbnoy
+ixjhczdorexltwgsfamqprbuuy
+ivjhczpokexdtwglfamqprbnuy
+ivjhczdokexltwgfgamcprbnuy
+ikjhczdokexltwgsfamqirbnux
+ivjhczdopjxltwgsfamqprbnny
+ivchczdokexltwgniamqprbnuy
+ivjhczdooeqltwgsfamqprbniy
+ivjhcldonexltwgbfamqprbnuy
+ixjhczdokehltwgsfamqprbnuf
+ivjhczdckefltwgsfamqppbnuy
+ivjhczdoqrxltwgsfamqprbnun
+ivjhczdokcxltwgmfarqprbnuy
+ivjhcziorexltqgsfamqprbnuy
+ivjhwzdokexltwgnfamqprbcuy
+ivjhczdoqexltwgsfazqprunuy
+iijhczdokexltwgsyamqprbnug
+ivjhczdokexltwgxfamhprbnry
+ivjhczdakexltwgsfaeqlrbnuy
+ivjhqzdokehltwgsfampprbnuy
+ivjhczdokexltwlsfpmyprbnuy
+ivjhfzdoktxltwgsfamzprbnuy
+ivlhvzdokexltwgsvamqprbnuy
+ivjhczdbkexltwgsaamqprfnuy
+ivahcedokexltigsfamqprbnuy
+cvjhczdokexltwgsfamapibnuy
+ivjhczkokbxltwgsfbmqprbnuy
+pvjuczdnkexltwgsfamqprbnuy
+iyjhczdckexotwgsfamqprbnuy
+ivjhzzdokvxltwgsfamqprbnuo
+ivjhczdobexltwgsxamqprbnry
+ivjhczdokexltwgsfaprprbnub
+ivjhczdokexltwgofarqprbkuy
+ivjhczdokexltwgbfymqprbnhy
+ibjhczdokexltwgsfkmqpvbnuy
+ivjhczdzkexlywgsfacqprbnuy
+hvdhczdokexltwglfamqprbnuy
+ivjhczdokexrtwgsfamqprbsuh
+ivjhczhokexltngsfamqpjbnuy
+ivjhcsjokexltwgsfaeqprbnuy
+ivjmczdokexltmgsfamqpbbnuy
+wvjhczdokexltwgsfamkpkbnuy
+icjhpzdoaexltwgsfamqprbnuy
+ivjmczdhkexltwgsfzmqprbnuy
+ivjhczdokexytwgsfamqprbwug
+ikjhczdjkexljwgsfamqprbnuy
+ivjvcdmokexltwgsfamqprbnuy
+ivjhazdorixltwgsfamqprbnuy
+ivchczdokexltwgsfamzprenuy
+ivjcczdokexlttgsfamqpmbnuy
+ibchgzdokexltwgsfamqprbnuy
+ivjhczdokepltwgsfamqpeenuy
+ivjnwzdokexlrwgsfamqprbnuy
+ivjhczdokexitwgsfadqlrbnuy
+icjhcrdokexltwgsfamqkrbnuy
+ivngczdokexltwgsfamqprbyuy
+ivjhuudokexlvwgsfamqprbnuy
+ivjhczdnkexltwgsfhmqpxbnuy
+itjhczdokexltwvsfamgprbnuy
+ivjhcddokexltwgsfakqprbnny
+ivjhuzdojexltwfsfamqprbnuy
+idjhczdokexltwgsfamqukbnuy
+ivjhczdokexlzigsfamqprbngy
+ivjwczdokexltwgufamqprbnuo
+iijhczdokexltwfsfadqprbnuy
+ivjhczdukexdtwgsfamqpsbnuy
+idjhczdokexllwgssamqprbnuy
+zvjhczdokexrtwgsfamqplbnuy
+ivphczdofexltwgefamqprbnuy
+ivhhczdokexlpwgsjamqprbnuy
+ivjhczdovexltwgsfamqprhnuj
+ivjhczdoklxltwgseamqprlnuy
+ivjhcqdokexltngsfamqprdnuy
+ivjhczdoifxltagsfamqprbnuy
+izjhczdokexltwjsramqprbnuy
+psjhczdokexlgwgsfamqprbnuy
+ivjhcadokexltwgsfsmqwrbnuy
+ivjhczdokexltwgsfawqiibnuy
+ivjhczkokexhtwgsfamqprbnuk
+ivjhcmdukexltwgsfamvprbnuy
+ivjlczdokexltwgsfamquibnuy
+ivjhczdokexntwgyfamqprbniy
+ivjhczdokexltwlsfafqprbnuc
+ivjhczdosexltrtsfamqprbnuy
+ivjhcznokexbtwgsfafqprbnuy
+ivwtczdotexltwgsfamqprbnuy
+ivjhvzdokexltigsoamqprbnuy
+ivjhcmdokexltwasfamqirbnuy
+ivthczdokexltwgsfaydprbnuy
+ivjhwzdskexltwgsfamqprbnus
+icjhczdosuxltwgsfamqprbnuy
+ivjhczdokexltwgstamqbrmnuy
+iejhczuoktxltwgsfamqprbnuy
+ivjhczdokeqltwgskamqprbniy
+ivjhlzdokexltugsfamqprbpuy
+iwjqczdckexltwgsfamqprbnuy
+ivjhwzdokexluwgsfxmqprbnuy
+ivjhczdokexltwgwfwmqprbguy
+gvjhczkokexltwgsfgmqprbnuy
+ivjhczdoyexlhwgsfamqprbnoy
+cvjhczdokexltwgsfomqprinuy
+vvmhczdokexltwgsfamqprbnun
+vvjhczdokexltwgsftmfprbnuy
+ivkhckdokhxltwgsfamqprbnuy
+iyjhczdkkexltjgsfamqprbnuy
+ivlhczdokexltwgsfamqyrbhuy
+tvjhmzdokexltwgsfamqorbnuy
+ivjhczdokexltwvsfamqprbnxi
+ivjhczdowexltwgswamqerbnuy
+wvjiczdomexltwgsfamqprbnuy
+ivjpizdokexltwgvfamqprbnuy
+ivjhuzdokexlzwgspamqprbnuy
+ivjhczdokeyltwgkfamqprdnuy
+jvjhczdokexlnwgsfamqirbnuy
+ivjheidokexltwvsfamqprbnuy
+mvjhczdokexltwgsfamqyrsnuy
+ivjhazdykexltwgsramqprbnuy
+ivjkcodokexltwgsxamqprbnuy
+ikjhczdoktxltwgpfamqprbnuy
+ivjhyzdfkexmtwgsfamqprbnuy
+ivohczdokexltugsfamqprynuy
+ivjkczdqkexltwgshamqprbnuy
+ivjhczdokexltwgskamqynbnuy
+icjhczdokexltwgofamrprbnuy
+ivjhlzdokealtwgsfamqsrbnuy
+ivehczdybexltwgsfamqprbnuy
+ovjhczdokexltwgsfamqirbnuo
+ivjoczdokexltwgsfamqurbnty
+ivjmczdokexltwgsfrmqprnnuy
+ivjhczdowpxltwgbfamqprbnuy
+ivjhczdokexltwfsfamqkrgnuy
+ivjhwzdokexltwgsfavqprbnuq
+jvjhczdokexltwgsiamqprbnny
+ivjhlzdouexltwfsfamqprbnuy
+ivjhczdokexltwgsfamqbrbnlv
+iwjhczdokexltwgsfapqprbnqy
+idjhczdokexltwgsaamqrrbnuy
+ivjhjzdopepltwgsfamqprbnuy
+ivjmczdokejltwgsfamqpbbnuy
+ivjhczdokexltwgsuamdprvnuy
+injhczdokexltwgefamqurbnuy
+iujhczdokexltwgsaamqjrbnuy
+ivjhczdokexltwgvfaaqprbnly
+ivehczdokexltwgsfamqppbnui
+ivxhczdodexltwgsfamqplbnuy
+ivjhczfokexltwgsfamqpwbauy
+ivjhcztwkexhtwgsfamqprbnuy
+ivjeczdokexltygsfmmqprbnuy
+ivjhchdokexltwgsmameprbnuy
+ivkhczdoklxltwggfamqprbnuy
+ivjhczdzkexltwhsfamqprjnuy
+ivjhcedokeultngsfamqprbnuy
+ivjhczdokexvtwgseabqprbnuy
+ivjhczdooexltlgsfamqpibnuy
+ivjgczvosexltwgsfamqprbnuy
+ivlhczwokexltwgsfamqmrbnuy
+lvjhczdokexutwgsfamrprbnuy
+ivahczdokexpdwgsfamqprbnuy
+ivjhcznokexltwhsfamqpnbnuy
+ivjhczdpkyxltwgbfamqprbnuy
+ivjhnzdokexltwgsftmqprinuy
+ivihczdokexltnhsfamqprbnuy
+ivjhcbdokevltwgsfamqprbauy
+hgjoczdokexltwgsfamqprbnuy
+dvjhczdckexltwgsfamqpybnuy
+ivjhcadokesltwgsfsmqwrbnuy
+ivjhwzdokexlttgsfamqprbney
+ivjhcidokexltwgofamqfrbnuy
+ivokwzdokexltwgsfamqprbnuy
+ivjiczdokexltwgsfaqqarbnuy
+ivjhczdokexqtwfsfamgprbnuy
+ivjhczdokealtwgsfamqerbnqy
+ivjhczdskexltwgsfamqprznuu
+ivjhwzdokexltwjsfdmqprbnuy
+ivjhczaokexlzwgsfamqprbnus
+ivjhczdokexltwosfamqnrbnux
+ivjhczdokexlqwgsfamwprcnuy
+ivjhczdqkexltwgswamqpcbnuy
+ijjhczdokexnttgsfamqprbnuy
+ivjhcedckexltwgsfamqprbnpy
+ivjhczdokeyltwgsfamqshbnuy
+ivjhczdokexltsgsfamqpmznuy
+ivjlczdtkeiltwgsfamqprbnuy
+ivjhczdokexltwgsfkmtprbnby
+ivjhnzdozexltwgsfamqprbnuc
+xqjxczdokexltwgsfamqprbnuy
+ivjhczdokeyltwgsfamqnrbnuw
+ivjwczgokexltwgsfamvprbnuy"
+
+boxIDcol <- strsplit(rawInput, "\n")
+
+charArray <- 1:1
+
+length(charArray) <- 0
+
+for( boxID in boxIDcol){
+ charArray <- c(charArray, strsplit(boxID,"")) 
+}
+charArray
+dataArray <- 1:1
+length(dataArray) <- 0
+twos <- 0
+threes <-0
+
+for(brokenboxID in charArray){
+  countData <- table(brokenboxID)
+  checkBools <- c(FALSE,FALSE)
+  print(countData)
+  countData
+  for( i in countData){
+     if(i == 2){ checkBools[1] = TRUE}
+     if(i == 3){ checkBools[2] = TRUE}
+  }
+  print(checkBools)
+#  names(checkBools) <- c("2's","3's")
+  if(checkBools[1]){twos <- twos +1}
+  if(checkBools[2]){threes <- threes +1}
+  dataArray <- c(dataArray,checkBools)
+}
+dataArray
+countData
+
+#for(datum in dataArray){
+#  if(all( names(datum)[1] == "2's", datum == 1)){
+ #   twos <- twos + 1
+#  }  
+#  if(all( names(datum)[1] == "3's", datum == 1)){
+    threes <- threes + 1
+#  }  
+
+#}
+twos
+threes
+print(twos * threes)
+        
