@@ -1,3 +1,4 @@
+library(utils)
 rawInput <- "ivyhczwokexltwhsfamqprbnuy
 ivjhcjdokexltwwsfamqpabnuy
 ivjhczdokebltwgsfydqprbnuy
@@ -274,7 +275,9 @@ dataArray <- 1:1
 length(dataArray) <- 0
 twos <- 0
 threes <-0
-
+tabledArray <- 1:1
+length(tabledArray) <- length(charArray)
+index <- 0
 for(brokenboxID in charArray){
   countData <- table(brokenboxID)
   checkBools <- c(FALSE,FALSE)
@@ -289,6 +292,8 @@ for(brokenboxID in charArray){
   if(checkBools[1]){twos = twos + 1}
   if(checkBools[2]){threes = threes + 1}
   dataArray <- c(dataArray,checkBools)
+  insert(tabledArray, countData, index)
+  index <- index + 1
 }
 dataArray
 countData
@@ -305,6 +310,7 @@ countData
 print(twos)
 print(threes)
 print(twos * threes)
+tabledArray
 }    
 checkSum(rawInput)
 checkSum(exampleInput)
